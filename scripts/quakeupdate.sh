@@ -4,7 +4,7 @@
 # purger@tomtecsolutions.com
 
 # Defining variables:
-export qBaseURL="https://raw.githubusercontent.com/dark-saber/QuakeLiveDS_Scripts/master"
+export qBaseURL="https://raw.githubusercontent.com/impac7/QuakeLiveDS_Scripts/master"
 export qUpdateServerMessage="^7All ^4darksab0r^7 hosted servers are going down ^1within a minute^7 for daily updating. They will be back in ^410 minutes^7."
 export qUpdateLowestRconPort=28960
 export qUpdateHighestRconPort=28970
