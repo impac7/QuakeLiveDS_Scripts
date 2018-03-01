@@ -1,8 +1,8 @@
 # The Purgery access control list:
 
 
-# admin 1, darksab0r
-76561198032849113|admin
+# admin 1, impac7 
+76561197970527478|admin
 
 # Blacklist for cheaters, douchebags who play shitty music all the time or constantly callvote random shit
 
