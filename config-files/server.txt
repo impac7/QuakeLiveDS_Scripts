@@ -43,7 +43,7 @@ set sv_altEntDir "baseq3/entities"
 
 set serverstartup "startRandomMap"
 
-set qlx_owner "76561198032849113"
+set qlx_owner "76561197970527478"
 
 set qlx_plugins "plugin_manager, essentials, motd, permission, ban, clan, names, log, silence, docs, fun, balance, branding, votestats, translate, player_info, checkplayers, vote, votemanager, custom_votes, ips, changemap, aliases, funlimit, q3resolver, killingspree"
 
